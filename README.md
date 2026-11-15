@@ -12,7 +12,7 @@ Everything happens on the device in your hand.
 [**Download**](https://github.com/pwnapplehat/TetherlessiOS/releases/latest) · [Website](https://tetherlessios.com)
 
 ![iOS 17.4+](https://img.shields.io/badge/iOS-17.4%2B-19c3d6?style=flat-square)
-![Version 1.2.1](https://img.shields.io/badge/version-1.2.1-7b61ff?style=flat-square)
+![Version 1.2.2](https://img.shields.io/badge/version-1.2.2-7b61ff?style=flat-square)
 ![No jailbreak](https://img.shields.io/badge/jailbreak-not%20required-success?style=flat-square)
 
 </div>
@@ -22,6 +22,7 @@ Everything happens on the device in your hand.
 ## What it does
 
 - **Sign & install any IPA** — using your free Apple ID, or your own certificate.
+- **Optimized for iPhone Duo** — fills the full inner display on Apple's foldable, and adapts as you fold and unfold.
 - **Get a clean copy of apps you own** — download an app you already own from the App Store and produce a DRM-free copy, fully on-device.
 - **Multiple App Store accounts** — sign several Apple IDs in for downloads and switch between them right in the Decrypt tab.
 - **Tweak injection** — add `.deb` or `.dylib` tweaks while you sign.
