@@ -12,7 +12,7 @@ Everything happens on the device in your hand.
 [**Download**](https://github.com/pwnapplehat/TetherlessiOS/releases/latest) · [Website](https://tetherlessios.com)
 
 ![iOS 17.4+](https://img.shields.io/badge/iOS-17.4%2B-19c3d6?style=flat-square)
-![Version 1.2.2](https://img.shields.io/badge/version-1.2.2-7b61ff?style=flat-square)
+![Version 1.2.3](https://img.shields.io/badge/version-1.2.3-7b61ff?style=flat-square)
 ![No jailbreak](https://img.shields.io/badge/jailbreak-not%20required-success?style=flat-square)
 
 </div>
